@@ -5,7 +5,7 @@ import { joinUsAction } from '@/utils'
 export function Hero() {
   return (
     <Container className="pt-20 pb-16 text-center lg:py-32">
-      <h1 className="mx-auto max-w-3xl font-display text-6xl font-medium tracking-tight text-slate-900">
+      <h1 className="mx-auto max-w-3xl font-display text-3xl lg:text-6xl font-medium tracking-tight text-slate-900">
         We are a{' '}
         <span className="relative whitespace-nowrap text-blue-600">
           {/* <svg
