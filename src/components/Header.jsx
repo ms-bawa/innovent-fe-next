@@ -109,7 +109,7 @@ export function Header() {
                 joinUsAction()
               }}
             >
-              Join Us
+              Become a Founder
             </Button>
           </div>
         </nav>

@@ -1,3 +1,4 @@
+import { joinUsAction } from '@/utils'
 import { Button } from './Button'
 
 export const ContactUs = () => {

@@ -26,7 +26,7 @@ export function Hero() {
         they need to build a Startup.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button onClick={()=>{ joinUsAction() }} >Join Us</Button>
+        <Button onClick={()=>{ joinUsAction() }} >Become a Founder</Button>
         <Button
           href={'#whatDoWeDo'}
           variant="outline"
