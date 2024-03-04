@@ -21,7 +21,7 @@ export function Hero() {
         building Next-Gen companies.
       </h1>
       <p className="mx-auto mt-6 max-w-3xl text-lg tracking-tight text-slate-700">
-        We identify high potential ides, create MVPs and Launch them as a
+        We identify high potential ideas, create MVPs and Launch them as a
         startup. We partner with Entrepreneurs to support them with resources
         they need to build a Startup.
       </p>
