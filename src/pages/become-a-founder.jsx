@@ -13,9 +13,20 @@ export default function Home() {
         />
       </Head>
       <Header />
-      <main className='h-screen'>
-        <div data-tf-live="01HKF5370J8JGTK61QEKKVM9PC"></div>
-        <script src="//embed.typeform.com/next/embed.js"></script>
+      <main className="h-auto ">
+        <div className="m-auto">
+          <iframe
+            title="become a foudner"
+            src="https://docs.google.com/forms/d/e/1FAIpQLSdP_DPgF5lwBdLf-dD4q-SnQWsk6yyWLiorDyinQ3DpXtFvwA/viewform?embedded=true"
+            width="100%"
+            height="1248"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0"
+          >
+            Loading…
+          </iframe>
+        </div>
       </main>
       <Footer />
     </>
