@@ -18,7 +18,7 @@ export function Hero() {
           </svg> */}
           <span className="relative">Startup Factory</span>
         </span>{' '}
-        building Next-Gen companies.
+        building Next-Gen <span className="relative whitespace-nowrap text-blue-600"><br></br>AI</span> companies.
       </h1>
       <p className="mx-auto mt-6 max-w-3xl text-lg tracking-tight text-slate-700">
         We identify high potential ideas, create MVPs and Launch them as a

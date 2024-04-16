@@ -11,7 +11,7 @@ const features = [
   {
     name: 'Multi-Disciplinary Team',
     description:
-      'We are a diverse team of Entrepreneurs, Developers, Designers and Business Experts. Our Team is Expert in Building, Marketing, Selling and growing the Products.',
+      'We are a diverse team of Entrepreneurs, AI Engineers, Designers and Growth Hackers. Our Team is Expert in Building, Marketing, Selling and growing the Products.',
     href: '#',
     icon: UserGroupIcon,
   },
